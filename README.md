@@ -6,7 +6,7 @@ Wonderland is a simple blogging template for Jekyll/GitHub Pages that includes s
 This is a port of @rigoneri's [syte](https://github.com/rigoneri/syte), which runs on Python. Unlike syte, Wonderland serves up entirely static pages and uses client-side javascript to call the external APIs, which allows you to deploy your blog on GitHub Pages, which is free, easy, and rad.
 
 
-##### **You can see a live demo [here](http://ada.mbecker.cc/wonderland)**.
+##### **You can see a live demo [here](http://ajb.github.io/wonderland/)**.
 
 
 ## Usage
